@@ -1,6 +1,6 @@
-**CADASTRO DE NOVOS LOTES INSERIDOS NO SISZON NO ANO DE 2022
+**CADASTRO DE NOVOS LOTES INSERIDOS NO SISZON NO ANO DE 2022**
 
-**Sobre o projeto
+**Sobre o projeto**
 
 Os dados contidos neste repositório fazem parte de um projeto desenvolvido pela Divisão de Sistema de Informações sobre Zoneamento (DSIZ) da Coordenadoria de Legislação de Uso e Ocupação do Solo (DEUSO). O dataset consiste em dados reais disponíveis no banco de dados do SISZON.
 
@@ -8,15 +8,15 @@ No contexto da dinâmica urbana do município, ocorre o processo de parcelamento
 
 Essas informações compõem o relatório anual da DSIZ sobre "A dinâmica do Plano Diretor Estratégico (Lei 16.050/14) e da Lei de Parcelamento, Uso e Ocupação do Solo (Lei 16.402/16) com base nos dados do Sistema de Informações sobre o Zoneamento (SISZON) da Prefeitura Municipal de São Paulo (PMSP)". O objetivo é gerar um relatório com indicadores que subsidiem os agentes públicos e a sociedade civil na compreensão da dinâmica do zoneamento, visando avaliar a efetividade da legislação urbanística.
 
-**Objetivo 
+**Objetivo** 
 
 Com o objetivo de facilitar o acesso e promover a exploração educativa  dos dados abertos disponíveis, criamos um repositório que contém dados e código aberto. Esses recursos são utilizados para a geração de gráficos a partir das tabelas, também fornecidas no formato CSV. Com as informações disponibilizadas neste repositório, é possível realizar análises e georreferenciar os dados de forma eficiente.
 
-**Metodologia 
+**Metodologia** 
 
 Para isso vamos utilizar as tabelas em formato csv., as tabelas foram extraida do banco de dados SISZON e manipuladas no QGIS com adição de informações de localização. A linguagem de programação utilizada é o Python as biblioteca de analise de dados Pandas.
 
-**Método 
+**Método** 
 
 Para a execução do projeto, adotamos uma abordagem temporal anual, dividida em quadrimestres, totalizando 3 quadrimestres por ano. As tabelas e notebooks contendo a exploração e os gráficos estão disponíveis para acesso neste repositório.
 
